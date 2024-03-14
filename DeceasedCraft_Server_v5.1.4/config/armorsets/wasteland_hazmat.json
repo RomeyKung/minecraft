@@ -1,0 +1,46 @@
+{
+  "armorSetName": "Hazmat",
+  "head": {
+    "itemKey": "apocalypsenow:hazmat_suit_helmet"
+  },
+  "chest": {
+    "itemKey": "apocalypsenow:hazmat_suit_chestplate"
+  },
+  "legs": {
+    "itemKey": "apocalypsenow:hazmat_suit_leggings"
+  },
+  "boots": {
+    "itemKey": "apocalypsenow:hazmat_suit_boots"
+  },
+  "fullSetBonuses": [
+    {
+      "type": "effect",
+      "name": "minecraft:poison",
+      "interactionType": "immunity",
+      "description": "§6 Grants Poison Immunity",
+      "onlyImmuneToNewEffects": true
+    },
+    {
+      "type": "effect",
+      "name": "hordes:infected",
+      "interactionType": "immunity",
+      "description": "§6 Grants Infection Immunity",
+      "onlyImmuneToNewEffects": true
+    },
+    {
+      "type": "effect",
+      "name": "undead_revamp2:toxicfumes",
+      "interactionType": "immunity",
+      "description": "§6 Grants Toxic Fumes Immunity",
+      "onlyImmuneToNewEffects": true
+    },
+    {
+      "type": "effect",
+      "name": "undead_revamp2:gooed",
+      "interactionType": "immunity",
+      "description": "§6 Grants Gooed Immunity",
+      "onlyImmuneToNewEffects": true
+    }
+  ],
+  "hideGeneratedTooltip": false
+}

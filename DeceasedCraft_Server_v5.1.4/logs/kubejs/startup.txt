@@ -1,0 +1,8 @@
+[23:58:48] [INFO ] Loaded script startup_scripts:abyss_portal.js in 0.15 s
+[23:58:48] [INFO ] Loaded script startup_scripts:ore_removal.js in 0.002 s
+[23:58:48] [INFO ] Hello, World! (You will only see this line once in console, during startup)
+[23:58:48] [INFO ] Loaded script startup_scripts:script.js in 0.002 s
+[23:58:48] [INFO ] Loaded mutation_sickness_check.js
+[23:58:48] [INFO ] Loaded script startup_scripts:zombie_player_ignore.js in 0.008 s
+[23:58:48] [INFO ] Loaded 4/4 KubeJS startup scripts in 0.902 s
+[23:58:48] [WARN ] Class filter is disabled!

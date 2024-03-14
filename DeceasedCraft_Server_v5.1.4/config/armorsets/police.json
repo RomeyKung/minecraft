@@ -1,0 +1,55 @@
+{
+  "armorSetName": "Police Officer",
+  "head": {
+    "itemKey": "apocalypsenow:police_helmet"
+  },
+  "chest": {
+    "itemKey": "apocalypsenow:police_chestplate"
+  },
+  "legs": {
+    "itemKey": "apocalypsenow:police_leggings"
+  },
+  "boots": {
+    "itemKey": "apocalypsenow:police_boots"
+  },
+  "mainHand": {
+    "itemKey": "apocalypsenow:night_stick",
+    "mixAndMatch": [
+      "apocalypsenow:electric_baton"
+    ]
+  },
+  "partialBonusRequiredAmount": 4,
+  "partialSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "minecraft:generic.attack_damage",
+      "value": 0.1,
+      "interactionType": "self",
+      "attributeOperation": 1,
+      "modifierUUID": "2706b496-bd4d-4deb-be91-25e576d5f20f",
+      "description": "§a +10% Melee Damage",
+      "hideBonusDescription": false
+    }
+  ],
+  "fullSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "minecraft:generic.attack_damage",
+      "value": 1.6,
+      "interactionType": "self",
+      "attributeOperation": 1,
+      "modifierUUID": "4fca7493-3eb1-4549-b5c9-6bfbd3ab914a",
+      "description": "§a +160% Melee Damage",
+      "hideBonusDescription": false
+    },
+    {
+      "type": "effect",
+      "name": "minecraft:slowness",
+      "value": 0.0,
+      "interactionType": "attack",
+      "interactionDuration": 200.0,
+      "description": "§6 Apply Slowness Effect When Dealt Damage"
+    }
+  ],
+  "hideGeneratedTooltip": false
+}

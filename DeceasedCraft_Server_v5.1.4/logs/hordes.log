@@ -1,0 +1,105 @@
+2024-03-14 23:58:45.8471084: Trying to load common config
+2024-03-14 23:58:45.8676754: Trying to load client config
+2024-03-14 23:58:45.8751927: Config files exist, skipping generation
+2024-03-14 23:58:56.1126164: Trying to read conversion table from config
+2024-03-14 23:58:56.1146309: java.lang.Exception: apocalypsenow:survivor_11 is not a resourcelocation
+2024-03-14 23:58:56.1146309: Error adding conversion apocalypsenow:survivor_11-100-minecraft:zombie null apocalypsenow:survivor_11 is not a resourcelocation
+2024-03-14 23:58:56.1219597: Loaded conversion apocalypsenow:survivor_10-100-minecraft:zombie as entity.apocalypsenow.survivor_10 with infection chance 100, and converts to entity.minecraft.zombie
+2024-03-14 23:58:56.1219597: Loaded conversion apocalypsenow:survivor_9-100-minecraft:zombie as entity.apocalypsenow.survivor_9 with infection chance 100, and converts to entity.minecraft.zombie
+2024-03-14 23:58:56.1231139: Loaded conversion apocalypsenow:survivor_8-100-minecraft:zombie as entity.apocalypsenow.survivor_8 with infection chance 100, and converts to entity.minecraft.zombie
+2024-03-14 23:58:56.1231139: Loaded conversion apocalypsenow:survivor_7-100-minecraft:zombie as entity.apocalypsenow.survivor_7 with infection chance 100, and converts to entity.minecraft.zombie
+2024-03-14 23:58:56.1241202: Loaded conversion apocalypsenow:survivor_6-100-minecraft:zombie as entity.apocalypsenow.survivor_6 with infection chance 100, and converts to entity.minecraft.zombie
+2024-03-14 23:58:56.1241202: Loaded conversion apocalypsenow:survivor_5-100-minecraft:zombie as entity.apocalypsenow.survivor_5 with infection chance 100, and converts to entity.minecraft.zombie
+2024-03-14 23:58:56.1251206: Loaded conversion apocalypsenow:survivor_4-100-minecraft:zombie as entity.apocalypsenow.survivor_4 with infection chance 100, and converts to entity.minecraft.zombie
+2024-03-14 23:58:56.1251206: Loaded conversion apocalypsenow:survivor_3-100-minecraft:zombie as entity.apocalypsenow.survivor_3 with infection chance 100, and converts to entity.minecraft.zombie
+2024-03-14 23:58:56.1251206: Loaded conversion apocalypsenow:survivor_2-100-minecraft:zombie as entity.apocalypsenow.survivor_2 with infection chance 100, and converts to entity.minecraft.zombie
+2024-03-14 23:58:56.1261192: Loaded conversion apocalypsenow:survivor_1-100-minecraft:zombie as entity.apocalypsenow.survivor_1 with infection chance 100, and converts to entity.minecraft.zombie
+2024-03-14 23:58:56.1261192: Loaded conversion minecraft:vindicator-20-minecraft:zombie_villager as entity.minecraft.vindicator with infection chance 20, and converts to entity.minecraft.zombie_villager
+2024-03-14 23:58:56.1271701: Loaded conversion minecraft:pillager-20-minecraft:zombie_villager as entity.minecraft.pillager with infection chance 20, and converts to entity.minecraft.zombie_villager
+2024-03-14 23:58:56.1283139: Loaded conversion minecraft:horse-20-zombiemobs:zombie_horsee as entity.minecraft.horse with infection chance 20, and converts to entity.zombiemobs.zombie_horsee
+2024-03-14 23:58:56.1283139: Loaded conversion minecraft:cat-20-zombiemobs:zombie_cat as entity.minecraft.cat with infection chance 20, and converts to entity.zombiemobs.zombie_cat
+2024-03-14 23:58:56.1293216: Loaded conversion minecraft:chicken-20-zombiemobs:zombie_chicken as entity.minecraft.chicken with infection chance 20, and converts to entity.zombiemobs.zombie_chicken
+2024-03-14 23:58:56.1293216: Loaded conversion minecraft:cow-20-zombiemobs:zombie_cow as entity.minecraft.cow with infection chance 20, and converts to entity.zombiemobs.zombie_cow
+2024-03-14 23:58:56.1293216: Loaded conversion minecraft:dolphin-20-zombiemobs:zombie_dolphin as entity.minecraft.dolphin with infection chance 20, and converts to entity.zombiemobs.zombie_dolphin
+2024-03-14 23:58:56.1303661: Loaded conversion minecraft:donkey-20-zombiemobs:zombie_donkey as entity.minecraft.donkey with infection chance 20, and converts to entity.zombiemobs.zombie_donkey
+2024-03-14 23:58:56.1303661: Loaded conversion minecraft:fox-20-zombiemobs:zombie_fox as entity.minecraft.fox with infection chance 20, and converts to entity.zombiemobs.zombie_fox
+2024-03-14 23:58:56.1303661: Loaded conversion minecraft:goat-20-zombiemobs:zombie_goat as entity.minecraft.goat with infection chance 20, and converts to entity.zombiemobs.zombie_goat
+2024-03-14 23:58:56.1303661: Loaded conversion minecraft:llama-20-zombiemobs:zombie_llama as entity.minecraft.llama with infection chance 20, and converts to entity.zombiemobs.zombie_llama
+2024-03-14 23:58:56.1318722: Loaded conversion minecraft:mooshroom-20-zombiemobs:zombie_mooshroom as entity.minecraft.mooshroom with infection chance 20, and converts to entity.zombiemobs.zombie_mooshroom
+2024-03-14 23:58:56.1318722: Loaded conversion minecraft:ocelot-20-zombiemobs:zombie_ocelot as entity.minecraft.ocelot with infection chance 20, and converts to entity.zombiemobs.zombie_ocelot
+2024-03-14 23:58:56.1318722: Loaded conversion minecraft:panda-20-zombiemobs:zombie_panda as entity.minecraft.panda with infection chance 20, and converts to entity.zombiemobs.zombie_panda
+2024-03-14 23:58:56.1333185: Loaded conversion minecraft:pig-20-zombiemobs:zombie_pig as entity.minecraft.pig with infection chance 20, and converts to entity.zombiemobs.zombie_pig
+2024-03-14 23:58:56.1333185: Loaded conversion minecraft:sheep-20-zombiemobs:zombie_sheep as entity.minecraft.sheep with infection chance 20, and converts to entity.zombiemobs.zombie_sheep
+2024-03-14 23:58:56.1333185: Loaded conversion minecraft:squid-20-zombiemobs:zombie_squid as entity.minecraft.squid with infection chance 20, and converts to entity.zombiemobs.zombie_squid
+2024-03-14 23:58:56.134324: Loaded conversion minecraft:turtle-20-zombiemobs:zombie_turtle as entity.minecraft.turtle with infection chance 20, and converts to entity.zombiemobs.zombie_turtle
+2024-03-14 23:58:56.134324: Loaded conversion minecraft:wolf-20-zombiemobs:zombie_wolf as entity.minecraft.wolf with infection chance 20, and converts to entity.zombiemobs.zombie_wolf
+2024-03-14 23:59:11.2158856: Loaded entity minecraft:zombie as entity.minecraft.zombie with weight 20, min day 0 and max day 0
+2024-03-14 23:59:11.2168859: Loaded entity zombie_extreme:bomber as entity.zombie_extreme.bomber with weight 5, min day 0 and max day 0
+2024-03-14 23:59:11.2168859: Loaded entity undead_revamp2:thesmoker as entity.undead_revamp2.thesmoker with weight 5, min day 0 and max day 0
+2024-03-14 23:59:11.2183637: Loaded entity minecraft:zombie as entity.minecraft.zombie with weight 5, min day 0 and max day 0
+2024-03-14 23:59:11.2193646: Loaded entity undead_revamp2:thepregnant as entity.undead_revamp2.thepregnant with weight 2, min day 0 and max day 0
+2024-03-14 23:59:11.2193646: loaded horde table hordes:mobs_75
+2024-03-14 23:59:11.2203646: Loaded entity minecraft:zombie as entity.minecraft.zombie with weight 35, min day 0 and max day 20
+2024-03-14 23:59:11.2203646: Loaded entity minecraft:zombie_villager as entity.minecraft.zombie_villager with weight 1, min day 0 and max day 20
+2024-03-14 23:59:11.2203646: Loaded entity minecraft:zombie_horse as entity.minecraft.zombie_horse with weight 3, min day 20 and max day 40
+2024-03-14 23:59:11.2203646: Loaded entity minecraft:husk as entity.minecraft.husk with weight 40, min day 20 and max day 40
+2024-03-14 23:59:11.2203646: Loaded entity minecraft:drowned as entity.minecraft.drowned with weight 3, min day 30 and max day 40
+2024-03-14 23:59:11.2218701: Loaded entity minecraft:zoglin as entity.minecraft.zoglin with weight 3, min day 40 and max day 40
+2024-03-14 23:59:11.2218701: Loaded entity minecraft:zombified_piglin as entity.minecraft.zombified_piglin with weight 10, min day 40 and max day 0
+2024-03-14 23:59:11.2218701: Loaded entity minecraft:husk as entity.minecraft.husk with weight 25, min day 50 and max day 0
+2024-03-14 23:59:11.2218701: Loaded entity minecraft:zoglin as entity.minecraft.zoglin with weight 3, min day 50 and max day 0
+2024-03-14 23:59:11.2218701: Loaded entity minecraft:zombie_horse as entity.minecraft.zombie_horse with weight 3, min day 50 and max day 0
+2024-03-14 23:59:11.2228787: loaded horde table hordes:default
+2024-03-14 23:59:11.2228787: Loaded entity minecraft:zombie as entity.minecraft.zombie with weight 25, min day 0 and max day 0
+2024-03-14 23:59:11.2228787: Loaded entity undead_revamp2:bomber as entity.undead_revamp2.bomber with weight 5, min day 0 and max day 0
+2024-03-14 23:59:11.2238764: Loaded entity undead_revamp2:thesmoker as entity.undead_revamp2.thesmoker with weight 5, min day 0 and max day 0
+2024-03-14 23:59:11.2238764: Loaded entity undead_revamp2:thepregnant as entity.undead_revamp2.thepregnant with weight 1, min day 0 and max day 0
+2024-03-14 23:59:11.2238764: loaded horde table hordes:mobs_30
+2024-03-14 23:59:11.2248775: Loaded entity minecraft:zombie as entity.minecraft.zombie with weight 10, min day 0 and max day 0
+2024-03-14 23:59:11.2248775: Loaded entity zombie_extreme:bomber as entity.zombie_extreme.bomber with weight 5, min day 0 and max day 0
+2024-03-14 23:59:11.2248775: Loaded entity undead_revamp2:theheavy as entity.undead_revamp2.theheavy with weight 5, min day 0 and max day 0
+2024-03-14 23:59:11.2258764: Loaded entity undead_revamp2:thepregnant as entity.undead_revamp2.thepregnant with weight 2, min day 0 and max day 0
+2024-03-14 23:59:11.2258764: Loaded entity zombie_extreme:demolisher as entity.zombie_extreme.demolisher with weight 2, min day 0 and max day 0
+2024-03-14 23:59:11.2258764: Loaded entity zombie_extreme:rat_king as entity.zombie_extreme.rat_king with weight 2, min day 0 and max day 0
+2024-03-14 23:59:11.2258764: Loaded entity zombie_extreme:patient_zero as entity.zombie_extreme.patient_zero with weight 2, min day 0 and max day 0
+2024-03-14 23:59:11.2268771: loaded horde table hordes:mobs_post_200
+2024-03-14 23:59:11.2268771: Loaded entity minecraft:zombie as entity.minecraft.zombie with weight 20, min day 0 and max day 0
+2024-03-14 23:59:11.2268771: Loaded entity zombie_extreme:bomber as entity.zombie_extreme.bomber with weight 5, min day 0 and max day 0
+2024-03-14 23:59:11.2278758: Loaded entity zombie_extreme:inflated as entity.zombie_extreme.inflated with weight 5, min day 0 and max day 0
+2024-03-14 23:59:11.2278758: Loaded entity undead_revamp2:thesmoker as entity.undead_revamp2.thesmoker with weight 5, min day 0 and max day 0
+2024-03-14 23:59:11.2278758: Loaded entity minecraft:zombie as entity.minecraft.zombie with weight 5, min day 0 and max day 0
+2024-03-14 23:59:11.228876: Loaded entity undead_revamp2:thepregnant as entity.undead_revamp2.thepregnant with weight 2, min day 0 and max day 0
+2024-03-14 23:59:11.228876: loaded horde table hordes:mobs_105
+2024-03-14 23:59:11.228876: Loaded entity minecraft:zombie as entity.minecraft.zombie with weight 25, min day 0 and max day 0
+2024-03-14 23:59:11.2298764: Loaded entity undead_revamp2:thesmoker as entity.undead_revamp2.thesmoker with weight 5, min day 0 and max day 0
+2024-03-14 23:59:11.2298764: Loaded entity zombie_extreme:bomber as entity.zombie_extreme.bomber with weight 5, min day 0 and max day 0
+2024-03-14 23:59:11.2298764: Loaded entity undead_revamp2:thepregnant as entity.undead_revamp2.thepregnant with weight 2, min day 0 and max day 0
+2024-03-14 23:59:11.2298764: loaded horde table hordes:mobs_45
+2024-03-14 23:59:11.2308761: Loaded entity minecraft:zombie as entity.minecraft.zombie with weight 10, min day 0 and max day 0
+2024-03-14 23:59:11.2308761: Loaded entity zombie_extreme:bomber as entity.zombie_extreme.bomber with weight 5, min day 0 and max day 0
+2024-03-14 23:59:11.2308761: Loaded entity undead_revamp2:theheavy as entity.undead_revamp2.theheavy with weight 5, min day 0 and max day 0
+2024-03-14 23:59:11.2318847: Loaded entity undead_revamp2:thepregnant as entity.undead_revamp2.thepregnant with weight 2, min day 0 and max day 0
+2024-03-14 23:59:11.2318847: Loaded entity zombie_extreme:demolisher as entity.zombie_extreme.demolisher with weight 2, min day 0 and max day 0
+2024-03-14 23:59:11.2323913: Loaded entity zombie_extreme:rat_king as entity.zombie_extreme.rat_king with weight 2, min day 0 and max day 0
+2024-03-14 23:59:11.2323913: loaded horde table hordes:mobs_200
+2024-03-14 23:59:11.2323913: Loaded entity minecraft:zombie as entity.minecraft.zombie with weight 30, min day 0 and max day 0
+2024-03-14 23:59:11.2333971: Loaded entity undead_revamp2:bomber as entity.undead_revamp2.bomber with weight 5, min day 0 and max day 0
+2024-03-14 23:59:11.2333971: Loaded entity undead_revamp2:thesmoker as entity.undead_revamp2.thesmoker with weight 5, min day 0 and max day 0
+2024-03-14 23:59:11.2333971: loaded horde table hordes:mobs_15
+2024-03-14 23:59:11.2343981: Loaded entity minecraft:zombie as entity.minecraft.zombie with weight 1, min day 0 and max day 0
+2024-03-14 23:59:11.2343981: loaded horde table hordes:fallback
+2024-03-14 23:59:11.2343981: Loaded entity minecraft:zombie as entity.minecraft.zombie with weight 15, min day 0 and max day 0
+2024-03-14 23:59:11.2343981: Loaded entity zombie_extreme:bomber as entity.zombie_extreme.bomber with weight 5, min day 0 and max day 0
+2024-03-14 23:59:11.2353987: Loaded entity zombie_extreme:inflated as entity.zombie_extreme.inflated with weight 5, min day 0 and max day 0
+2024-03-14 23:59:11.2353987: Loaded entity undead_revamp2:theheavy as entity.undead_revamp2.theheavy with weight 5, min day 0 and max day 0
+2024-03-14 23:59:11.2353987: Loaded entity undead_revamp2:thepregnant as entity.undead_revamp2.thepregnant with weight 2, min day 0 and max day 0
+2024-03-14 23:59:11.2353987: Loaded entity zombie_extreme:demolisher as entity.zombie_extreme.demolisher with weight 2, min day 0 and max day 0
+2024-03-14 23:59:11.2363986: loaded horde table hordes:mobs_140
+2024-03-14 23:59:11.2439072: loaded horde script hordes:day_15_script
+2024-03-14 23:59:11.2439072: loaded horde script hordes:day_140_script
+2024-03-14 23:59:11.2449122: loaded horde script hordes:day_200_script
+2024-03-14 23:59:11.2449122: loaded horde script hordes:day_75_script
+2024-03-14 23:59:11.2459129: loaded horde script hordes:day_45_script
+2024-03-14 23:59:11.2459129: loaded horde script hordes:day_post_200_script
+2024-03-14 23:59:11.2459129: loaded horde script hordes:day_105_script
+2024-03-14 23:59:11.246912: loaded horde script hordes:day_30_script

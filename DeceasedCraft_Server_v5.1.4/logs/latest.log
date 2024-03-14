@@ -1,0 +1,71 @@
+[15Mar2024 00:00:00.288] [Worker-Main3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 57%
+[15Mar2024 00:00:00.792] [Worker-Main4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 59%
+[15Mar2024 00:00:01.277] [Worker-Main3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 60%
+[15Mar2024 00:00:01.781] [Worker-Main13/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 62%
+[15Mar2024 00:00:02.278] [Worker-Main16/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 63%
+[15Mar2024 00:00:02.780] [Worker-Main8/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 65%
+[15Mar2024 00:00:03.276] [Worker-Main22/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 68%
+[15Mar2024 00:00:03.806] [Worker-Main22/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 68%
+[15Mar2024 00:00:04.276] [Worker-Main8/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 71%
+[15Mar2024 00:00:04.786] [Worker-Main12/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 71%
+[15Mar2024 00:00:05.276] [Worker-Main3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 75%
+[15Mar2024 00:00:05.803] [Worker-Main21/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 75%
+[15Mar2024 00:00:06.277] [Worker-Main17/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 80%
+[15Mar2024 00:00:06.787] [Worker-Main9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
+[15Mar2024 00:00:07.103] [Worker-Main14/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-191, y=216, z=31}
+[15Mar2024 00:00:07.103] [Worker-Main14/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-192, y=216, z=31}
+[15Mar2024 00:00:07.103] [Worker-Main14/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-192, y=216, z=31}
+[15Mar2024 00:00:07.103] [Worker-Main14/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-192, y=216, z=31}
+[15Mar2024 00:00:07.103] [Worker-Main14/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-191, y=216, z=31}
+[15Mar2024 00:00:07.103] [Worker-Main14/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-191, y=216, z=31}
+[15Mar2024 00:00:07.103] [Worker-Main14/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-191, y=216, z=31}
+[15Mar2024 00:00:07.303] [Worker-Main24/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 84%
+[15Mar2024 00:00:07.780] [Worker-Main11/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 86%
+[15Mar2024 00:00:08.290] [Worker-Main11/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 87%
+[15Mar2024 00:00:08.787] [Worker-Main10/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 88%
+[15Mar2024 00:00:09.295] [Worker-Main24/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 92%
+[15Mar2024 00:00:09.782] [Worker-Main13/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 94%
+[15Mar2024 00:00:10.278] [Worker-Main6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 97%
+[15Mar2024 00:00:10.789] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 37513 ms
+[15Mar2024 00:00:10.789] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (55.143s)! For help, type "help"
+[15Mar2024 00:00:10.890] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[15Mar2024 00:00:10.891] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Loading claims...
+[15Mar2024 00:00:10.892] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Loaded claims in 1ms
+[15Mar2024 00:00:10.892] [Server thread/WARN] [xaero.pac.OpenPartiesAndClaims/]: The configured permission system "ftb_ranks" isn't registered!
+[15Mar2024 00:00:10.893] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Configured OPAC to use the following permission system: permission_api
+[15Mar2024 00:00:10.893] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Configured OPAC to use the following party system as primary: ftb_teams
+[15Mar2024 00:00:11.014] [Server thread/INFO] [puffish_skills/]: [puffish_skills] Configuration loaded successfully!
+[15Mar2024 00:00:11.028] [Server thread/INFO] [xaero.map.WorldMap/]: Registered synced player tracker system: ftb_teams
+[15Mar2024 00:00:11.089] [Server thread/INFO] [xaero.common.MinimapLogs/]: Registered synced player tracker system: ftb_teams
+[15Mar2024 00:00:11.095] [Server thread/INFO] [top.theillusivec4.diet.DietMod/]: Generating diet values...
+[15Mar2024 00:00:11.095] [Server thread/INFO] [top.theillusivec4.diet.DietMod/]: Finding ungrouped food items...
+[15Mar2024 00:00:11.110] [Server thread/INFO] [top.theillusivec4.diet.DietMod/]: Found 177 ungrouped food items
+[15Mar2024 00:00:11.110] [Server thread/INFO] [top.theillusivec4.diet.DietMod/]: Building item-to-recipes map...
+[15Mar2024 00:00:11.145] [Server thread/INFO] [top.theillusivec4.diet.DietMod/]: Found 9425 valid items with recipes
+[15Mar2024 00:00:11.145] [Server thread/INFO] [top.theillusivec4.diet.DietMod/]: Processing items...
+[15Mar2024 00:00:11.150] [Server thread/INFO] [top.theillusivec4.diet.DietMod/]: Processed 235 items
+[15Mar2024 00:00:11.150] [Server thread/INFO] [top.theillusivec4.diet.DietMod/]: Generating diet values took 56.04 ms
+[15Mar2024 00:00:11.160] [Server thread/INFO] [FTB Quests/]: Loading quests from C:\Users\kakak\OneDrive\Desktop\DeceasedCraft_Server_v5.1.4\config\ftbquests\quests
+[15Mar2024 00:00:11.234] [Server thread/INFO] [FTB Quests/]: Loaded 5 chapter groups, 17 chapters, 328 quests, 1 reward tables
+[15Mar2024 00:00:11.389] [Server thread/INFO] [net.bettercombat.logic.WeaponRegistry/]: Encoded Weapon Attribute registry size (with package overhead): 125984 bytes (in 13 string chunks with the size of 10000)
+[15Mar2024 00:00:11.420] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
+[15Mar2024 00:00:11.435] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
+[15Mar2024 00:00:11.584] [Server thread/WARN] [ModernFix/]: Dedicated server took 97.412 seconds to load
+[15Mar2024 00:00:11.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[15Mar2024 00:00:11.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[15Mar2024 00:00:11.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[15Mar2024 00:00:12.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15Mar2024 00:00:13.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[15Mar2024 00:00:13.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/lostcities:lostcity
+[15Mar2024 00:00:13.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deceasedcraft:abyss
+[15Mar2024 00:00:13.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[15Mar2024 00:00:13.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15Mar2024 00:00:13.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15Mar2024 00:00:13.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[15Mar2024 00:00:13.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (abyss): All chunks are saved
+[15Mar2024 00:00:13.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15Mar2024 00:00:13.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15Mar2024 00:00:13.803] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopping IO worker...
+[15Mar2024 00:00:13.807] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopped IO worker!
+[15Mar2024 00:00:13.809] [Server thread/INFO] [configured/]: Unloading server configs...
+[15Mar2024 00:00:13.810] [Server thread/INFO] [configured/]: Sending config unload event for configured.developer.toml
